@@ -1,0 +1,20 @@
+.header-block {
+    height: 80px;
+    
+}
+
+.header-block h2 a{
+    color: #fff;
+    font-size: 24px;
+}
+
+.header-links li{
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+.header-links a {
+    color: #fff;
+    font-size: 18px;
+    
+}

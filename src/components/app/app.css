@@ -1,0 +1,13 @@
+.button {
+    margin-left: 16px;
+    margin-bottom: 20px;
+}
+
+.app {
+    
+        background-image: url('got.jpeg');
+        height: auto;
+        background-size: cover;
+        font-size: 16px;
+    
+}

@@ -1,0 +1,20 @@
+.itemdetails-block {
+    background-color: #fff;
+    padding: 25px 25px 15px 25px;
+    margin-bottom: 40px;
+    border-radius: 2%;
+    text-align: center;
+}
+.itemdetails-block h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.term {
+    font-weight: bold;
+}
+
+.select-item {
+    font-size: 20px;
+    color: #fff
+}
