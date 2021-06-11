@@ -17,7 +17,7 @@ function RandomChar(props) {
         const timerId = setInterval(() => {
             updateChar()
             
-        }, 3000)
+        }, 5000)
         
         return function clear() {
                     clearInterval(timerId)
@@ -59,10 +59,6 @@ function RandomChar(props) {
     
     
 }
-// RandomChar.defaultProps = {
-//     interval: 5000
-// }
-
 export default RandomChar
 
 

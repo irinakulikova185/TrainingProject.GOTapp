@@ -62,7 +62,6 @@ function ItemDetails(props) {
         const {name} = item
         console.log(loading)
         if(loading) {
-            console.log('ghj')
             return (
                 <div className="itemdetails-block">
                     <Spinner/>
